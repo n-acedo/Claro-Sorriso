@@ -39,7 +39,7 @@ function SocialMedia() {
   return (
     <ContactWrapper>
       <a
-        href="https://api.whatsapp.com/send?1=pt_BR&amp;phone=5511998787878"
+        href="https://api.whatsapp.com/send?1=pt_BR&amp;phone=5511955551715"
         target="blank"
       >
         {renderIcon(whatsapp, WhatsappIcon, WhatsappIconColor, setWhatsapp)}
