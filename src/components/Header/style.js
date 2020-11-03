@@ -4,13 +4,14 @@ const HeaderWrapper = styled.header`
   position: fixed;
   top: 0;
   width: 100%;
-  height: 100px;
+  height: 80px;
   background-color: #062c51;
   padding: 20px 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   color: white;
+  z-index: 2;
 `;
 
 const SiteContent = styled.div`

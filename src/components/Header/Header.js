@@ -9,8 +9,8 @@ function Header() {
     <HeaderWrapper>
       <LogoImg src={LogoCS} alt="logo Claro Sorriso" />
       <SiteContent>
-        <p>Serviços</p>
         <p>Clínica</p>
+        <p>Tratamentos</p>
         <p>Equipe</p>
         <p>Contato</p>
         <SocialMedia />
